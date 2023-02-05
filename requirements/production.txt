@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+trafaret_config==2.0.2
+markdown2==2.4.2
+pyJWT==2.6.0

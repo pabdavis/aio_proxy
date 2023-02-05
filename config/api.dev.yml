@@ -1,0 +1,5 @@
+# app
+app:
+  host: 0.0.0.0
+  port: 8000
+  signing_key: 64h7nwy9eks3ddwuy9mzly5fq2h25qc70m5wjlcqn57ym7auma284yfpr9u5h63cmidowy5i12uupirekh7
